@@ -1,0 +1,25 @@
+{
+    "stocks": {
+        "1": {
+            "last_reset": "2025-09-14T15:09:43.937832",
+            "stocks": {
+                "노트북 Lenovo X1 Carbon Gen12": 2000,
+                "모니터 ThinkVision P24q-30 23.8인치": 2000,
+                "[G마켓] 삼성 DM500TGZ-AD74 데스크탑 인텔 14세대 i7 고성능 게이밍 없음 사무용 컴퓨터": 2000,
+                "로벅스(150000원권)": 2000,
+                "[Steam] 충전카드 22000원권": 2000,
+                "[LG휘센] 오브제컬렉션 에어컨 2in1 (3세대)": 2000
+            }
+        }
+    },
+    "users": {
+        "1": {
+            "name": "정윤재",
+            "email": "yoonjaejung14@gmail.com",
+            "password": "1",
+            "wallet": 10000,
+            "inventory": {},
+            "logged_in": true
+        }
+    }
+}
